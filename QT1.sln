@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QT1", "QT1\QT1.csproj", "{50B415D7-4C23-4294-9559-498C1FA323C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QT2", "QT2\QT2.csproj", "{D5BAEE46-9CBC-431C-A278-165D4DD51681}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QT3", "QT3\QT3.csproj", "{9DCADF97-E741-425F-AADB-DC4A5A5FECFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QT4", "QT4\QT4.csproj", "{9FBDF907-F650-42AB-ADDA-E3A39CA3761E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50B415D7-4C23-4294-9559-498C1FA323C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B415D7-4C23-4294-9559-498C1FA323C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B415D7-4C23-4294-9559-498C1FA323C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B415D7-4C23-4294-9559-498C1FA323C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5BAEE46-9CBC-431C-A278-165D4DD51681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5BAEE46-9CBC-431C-A278-165D4DD51681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5BAEE46-9CBC-431C-A278-165D4DD51681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5BAEE46-9CBC-431C-A278-165D4DD51681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DCADF97-E741-425F-AADB-DC4A5A5FECFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DCADF97-E741-425F-AADB-DC4A5A5FECFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DCADF97-E741-425F-AADB-DC4A5A5FECFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DCADF97-E741-425F-AADB-DC4A5A5FECFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FBDF907-F650-42AB-ADDA-E3A39CA3761E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FBDF907-F650-42AB-ADDA-E3A39CA3761E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FBDF907-F650-42AB-ADDA-E3A39CA3761E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FBDF907-F650-42AB-ADDA-E3A39CA3761E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
