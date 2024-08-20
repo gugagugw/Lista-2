@@ -8,26 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\j02\\.nuget\\packages\\": {}
+    "C:\\Users\\manin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\j02\\Documents\\Gustavo Pereira de Barros - 2°B JD\\Lógica de Programação\\C#\\Lista de Exercício 2\\QT3\\QT3.csproj",
+      "projectUniqueName": "C:\\Users\\manin\\OneDrive\\Documentos\\VSCode\\Lista-2\\QT3\\QT3.csproj",
       "projectName": "QT3",
-      "projectPath": "C:\\Users\\j02\\Documents\\Gustavo Pereira de Barros - 2°B JD\\Lógica de Programação\\C#\\Lista de Exercício 2\\QT3\\QT3.csproj",
-      "packagesPath": "C:\\Users\\j02\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\j02\\Documents\\Gustavo Pereira de Barros - 2°B JD\\Lógica de Programação\\C#\\Lista de Exercício 2\\QT3\\obj\\",
+      "projectPath": "C:\\Users\\manin\\OneDrive\\Documentos\\VSCode\\Lista-2\\QT3\\QT3.csproj",
+      "packagesPath": "C:\\Users\\manin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\manin\\OneDrive\\Documentos\\VSCode\\Lista-2\\QT3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\j02\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\manin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
